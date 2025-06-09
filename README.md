@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Prasad Anil Sapkal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Python+Developer;Frontend+Developer;Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Developer;Python+Developer)](https://git.io/typing-svg)
 
 💻 **Full Stack Python Developer**  
 🚀 Passionate about building efficient, user-friendly applications with a focus on backend development and user experience.
