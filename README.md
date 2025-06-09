@@ -54,9 +54,9 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasad-sapkal&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasadsapkal55&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=prasad-sapkal&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=prasadsapkal55&theme=github-dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <table>
