@@ -11,18 +11,32 @@
 
 ## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### ⚙️ Languages, Frameworks & Databases
+
+- **Python**  
+  <div style="background-color:#ddd;width:100%;border-radius:8px;">
+    <div style="width:90%;background-color:#3776AB;height:20px;border-radius:8px;"></div>
+  </div>
+
+- **Django**  
+  <div style="background-color:#ddd;width:100%;border-radius:8px;">
+    <div style="width:85%;background-color:#092E20;height:20px;border-radius:8px;"></div>
+  </div>
+
+- **React.js**  
+  <div style="background-color:#ddd;width:100%;border-radius:8px;">
+    <div style="width:80%;background-color:#61DAFB;height:20px;border-radius:8px;"></div>
+  </div>
+
+- **JavaScript / HTML / CSS**  
+  <div style="background-color:#ddd;width:100%;border-radius:8px;">
+    <div style="width:88%;background-color:#F7DF1E;height:20px;border-radius:8px;"></div>
+  </div>
+
+- **Bootstrap / SQLite / SQL Server / Odoo**  
+  <div style="background-color:#ddd;width:100%;border-radius:8px;">
+    <div style="width:75%;background-color:#563D7C;height:20px;border-radius:8px;"></div>
+  </div>
 
 ---
 
@@ -39,6 +53,27 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=prasad-sapkal&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=prasad-sapkal&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=prasad-sapkal&show_icons=true" alt="GitHub Stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-sapkal&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
+---
 
 ## 📫 Connect with Me
 
