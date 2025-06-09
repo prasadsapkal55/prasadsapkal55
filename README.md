@@ -34,7 +34,6 @@ I’m currently working as a **Python Developer Intern** at **xNetra**, focusing
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 ## 🚀 Featured Project
@@ -52,7 +51,6 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 
 ## 🚀 GitHub Stats
 
-<!-- GitHub Stats + Streak (Responsive for Mobile) -->
 <table>
   <tr>
     <td>
@@ -64,23 +62,12 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
   </tr>
 </table>
 
-
 ---
 
 ## 📫 Connect with Me
 
 [![🔗 LinkedIn](https://img.shields.io/badge/LinkedIn-Prasad_Sapkal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal)
 [![📧 Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadsapkal282@gmail.com)
-
-<!-- Fancy LinkedIn Gradient Badge -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasad_Sapkal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal)
-
-<!-- Fancy Email Gradient Badge -->
-[![Gmail](https://img.shields.io/badge/Gmail-Message_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadsapkal282@gmail.com)
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal)
-[![Gmail](https://img.shields.io/badge/-prasadsapkal282@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:prasadsapkal282@gmail.com)
 
 ---
 
