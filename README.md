@@ -49,14 +49,10 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 - Secure transfer logs stored in **SQLite**
 
 ---
-[![Prasad's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prasadsapkal55&theme=react-dark)](https://github.com/prasadsapkal55/github-readme-activity-graph)
----
 
 ## 🚀 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=prasad-sapkal55&show_icons=true&theme=radical" alt="Prasad's GitHub stats" />
   
   <img src="https://streak-stats.demolab.com/?user=prasad-sapkal55&theme=radical" alt="GitHub Streak" />
   
