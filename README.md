@@ -48,7 +48,7 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 
 ## ⚡ Fun Fact
 
-I love bringing ideas to life—from UI sketches in Figma to full-stack applications powered by Django.
+I love bringing ideas to life—from UI sketches in Figma to full-stack applications.
 
 ---
 
