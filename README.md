@@ -55,6 +55,10 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 [![GitHub Streak](https://streak-stats.demolab.com/?user=prasadsapkal55&theme=radical)](https://git.io/streak-stats)
 ---
 
+---
+![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadsapkal55&show_icons=true&theme=radical)
+---
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal)
