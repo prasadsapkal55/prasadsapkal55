@@ -56,10 +56,6 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 
 ---
 
-[![Prasad's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prasadsapkal55&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal)
