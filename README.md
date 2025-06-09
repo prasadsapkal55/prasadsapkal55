@@ -54,7 +54,7 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=prasadsapkal55&theme=radical)](https://git.io/streak-stats)
 
-[![Prasad's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prasadsapkal55&theme=react-dark)](https://github.com/prasadsapkal55/github-readme-activity-graph)
+[![Prasad's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prasadsapkal55&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
