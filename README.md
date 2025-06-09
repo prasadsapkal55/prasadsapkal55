@@ -38,7 +38,7 @@ I’m currently working as a **Python Developer Intern** at **xNetra**, focusing
 
 ---
 
-## 🚀 Featured Project
+<h2 align="center">🚀 Featured Project</h2>
 
 ### 📂 **ShareHub – File Sharing App**
 A cross-platform desktop application enabling **seamless file sharing** over local networks.
@@ -52,6 +52,12 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 ---
 
 ## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasad-sapkal&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=prasad-sapkal&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 <table>
   <tr>
