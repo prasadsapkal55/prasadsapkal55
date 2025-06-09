@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Prasad Anil Sapkal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Developer;Python+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Developer;Python+Developer" alt="Typing SVG" />
+</p>
 
 💻 **Full Stack Python Developer**  
 🚀 Passionate about building efficient, user-friendly applications with a focus on backend development and user experience.
@@ -68,10 +70,6 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasad_Sapkal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal)
 [![Email](https://img.shields.io/badge/Gmail-prasadsapkal282@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadsapkal282@gmail.com)
-
-
-[![🔗 LinkedIn](https://img.shields.io/badge/LinkedIn-Prasad_Sapkal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal)
-[![📧 Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadsapkal282@gmail.com)
 
 ---
 
