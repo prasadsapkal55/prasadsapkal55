@@ -52,7 +52,13 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 [![Prasad's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prasadsapkal55&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prasadsapkal55&theme=radical)](https://git.io/streak-stats) ![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadsapkal55&show_icons=true&theme=radical)
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=prasad-sapkal55&theme=radical" alt="GitHub Streak" width="49%"/>
+  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prasad-sapkal55&theme=react-dark" alt="GitHub Activity Graph" width="49%"/>
+
+</div>
 ---
 
 ## 📫 Connect with Me
