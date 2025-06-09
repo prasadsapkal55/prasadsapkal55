@@ -74,7 +74,7 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 
 ## ⚡ Fun Fact
 
-I love bringing ideas to life—from UI sketches in Figma to full-stack applications.<br>
+I love bringing ideas to life - from UI sketches in Figma to full-stack applications.<br>
 🧠 I enjoy debugging as much as coding - because every bug tells a story!
 
 > Talk is cheap. Show me the code. - Linus Torvalds
