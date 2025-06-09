@@ -5,6 +5,14 @@
 💻 **Full Stack Python Developer**  
 🚀 Passionate about building efficient, user-friendly applications with a focus on backend development and user experience.
 
+---
+
+## 👨‍💻 Current Internship
+
+I’m currently working as a **Python Developer Intern** at **xNetra**, focusing on building desktop applications that deliver seamless user experiences and robust functionality.
+
+---
+
 ![Visitors](https://komarev.com/ghpvc/?username=prasad-sapkal&color=brightgreen)
 
 ---
