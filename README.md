@@ -54,16 +54,15 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=prasadsapkal55&theme=radical)](https://git.io/streak-stats)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasad-sapkal&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=prasad-sapkal&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-sapkal&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
 ---
 
 ## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/prasad-sapkal55" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-</p>
-
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal)
 [![Gmail](https://img.shields.io/badge/-prasadsapkal282@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:prasadsapkal282@gmail.com)
