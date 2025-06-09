@@ -55,9 +55,9 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 [![GitHub Streak](https://streak-stats.demolab.com/?user=prasadsapkal55&theme=radical)](https://git.io/streak-stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasad-sapkal&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=prasad-sapkal&theme=github-dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-sapkal&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasadsapkal55&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=prasadsapkal55&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadsapkal55&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
