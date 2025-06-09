@@ -49,6 +49,8 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 - Local P2P transfers via **hostname identification**  
 - Secure transfer logs stored in **SQLite**
 
+🔗 [View on GitHub](https://github.com/prasadsapkal55/sharehub)
+
 ---
 
 ## 🚀 GitHub Stats
