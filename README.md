@@ -69,6 +69,9 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 
 ## 📫 Connect with Me
 
+[![🔗 LinkedIn](https://img.shields.io/badge/LinkedIn-Prasad_Sapkal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal)
+[![📧 Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadsapkal282@gmail.com)
+
 <!-- Fancy LinkedIn Gradient Badge -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasad_Sapkal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal)
 
