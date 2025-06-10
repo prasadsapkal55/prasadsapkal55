@@ -15,7 +15,7 @@ I’m currently working as a **Python Developer Intern (May 2025 - Present)** at
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=prasad-sapkal&color=brightgreen)
+![Visitors](https://komarev.com/ghpvc/?username=prasadsapkal&color=brightgreen)
 
 ---
 
