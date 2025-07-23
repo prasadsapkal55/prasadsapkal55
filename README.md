@@ -68,26 +68,23 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 
 ## 📫 Connect with Me
 
-<div align="center">
-
+<p align="center">
   <a href="https://www.linkedin.com/in/prasad-sapkal/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:prasadsapkal282@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" alt="Gmail" />
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/prasadsapkal55">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/PrasadSapkal55">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" width="30" alt="Twitter/X" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X"/>
   </a>
-
-</div>
-
+</p>
 
 ---
 
