@@ -71,13 +71,13 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 <p align="center">
   <a href="https://www.linkedin.com/in/prasad-sapkal/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:prasadsapkal282@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/prasadsapkal55">
     <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/PrasadSapkal55">
     <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter"/>
   </a>
