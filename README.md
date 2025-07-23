@@ -84,7 +84,6 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/PrasadSapkal55" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/X.png" width="30" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" width="30" alt="Twitter/X" />
   </a>
 
 </div>
