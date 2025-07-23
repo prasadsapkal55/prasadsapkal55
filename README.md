@@ -72,6 +72,10 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 [![Email](https://img.shields.io/badge/Gmail-prasadsapkal282@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadsapkal282@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-prasad--sapkal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasadsapkal55)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasadsapkal282@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prasad-sapkal)
+
 
 ---
 
