@@ -70,20 +70,21 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/prasad-sapkal/">
+  <a href="https://www.linkedin.com/in/prasad-sapkal/" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:prasadsapkal282@gmail.com">
+  <a href="mailto:prasadsapkal282@gmail.com" style="text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/prasadsapkal55">
+  <a href="https://github.com/prasadsapkal55" style="text-decoration:none;">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/PrasadSapkal55">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/X.png?raw=true" width="30" />
+  <a href="https://twitter.com/PrasadSapkal55" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/X.png" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" width="30" alt="Twitter/X" />
   </a>
 
 </div>
