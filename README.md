@@ -73,6 +73,8 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" />](https://github.com/prasadsapkal55)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="30" />](https://twitter.com/PrasadSapkal55)
 [<img src="https://seeklogo.com/images/X/x-logo-69B7B41D18-seeklogo.com.png" width="30" />](https://twitter.com/PrasadSapkal55)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="30" />](https://twitter.com/PrasadSapkal55)
+
 
 
 ---
