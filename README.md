@@ -84,6 +84,9 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
   <a href="https://www.facebook.com/prasadsapkal55">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Facebook-icon-1.png" width="40" alt="Facebook"/>
   </a>
+  <a href="https://www.facebook.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" alt="Facebook"/>
+  </a>
 </p>
 
 ---
