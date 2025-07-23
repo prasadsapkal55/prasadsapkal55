@@ -69,10 +69,23 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 ## 📫 Connect with Me
 
 <div align="center">
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/prasad-sapkal)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />](mailto:prasadsapkal282@gmail.com)
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" />](https://github.com/prasadsapkal55)
-[<img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png" width="30" />](https://twitter.com/PrasadSapkal55)
+
+  <a href="https://www.linkedin.com/in/prasad-sapkal/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:prasadsapkal282@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/prasadsapkal55">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/PrasadSapkal55">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/X.png?raw=true" width="30" />
+  </a>
+
 </div>
 
 ---
