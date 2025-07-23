@@ -68,8 +68,8 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 
 ## 📫 Connect with Me
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/prasad-sapkal)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />](mailto:prasadsapkal282@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/prasad-sapkal)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />](mailto:prasadsapkal282@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" />](https://github.com/prasadsapkal55)
 
 ---
