@@ -81,6 +81,9 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
   <a href="https://twitter.com/PrasadSapkal55">
     <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/prasadsapkal55">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Facebook-icon-1.png" width="40" alt="Facebook"/>
+  </a>
 </p>
 
 ---
