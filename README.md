@@ -68,17 +68,9 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasad_Sapkal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal)
-[![Email](https://img.shields.io/badge/Gmail-prasadsapkal282@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadsapkal282@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-prasad--sapkal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasadsapkal55)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-sapkal/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasadsapkal282@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prasad-sapkal)
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/prasad-sapkal/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/prasad-sapkal)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" />](mailto:prasadsapkal282@gmail.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />](https://github.com/prasad-sapkal)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />](https://github.com/prasadsapkal55)
 
 
 ---
