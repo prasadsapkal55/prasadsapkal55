@@ -70,7 +70,7 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
   <a href="https://twitter.com/PrasadSapkal55">
     <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://discord.gg/YOUR_INVITE_CODE">
+    <a href="https://discord.gg/gSNjxzNTN7">
     <img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/>
   </a>
 </p>
