@@ -72,7 +72,7 @@ A cross-platform desktop application enabling **seamless file sharing** over loc
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://discord.gg/gSNjxzNTN7">
     <img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
