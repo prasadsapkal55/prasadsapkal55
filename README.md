@@ -32,21 +32,6 @@
 
 ---
 
-<h2 align="center">🚀 Featured Project</h2>
-
-### 📂 **ShareHub – File Sharing App**
-A cross-platform desktop application enabling **seamless file sharing** over local networks.
-
-🔧 **Built with:** Python, Tkinter, Socket Programming, SQLite  
-✨ Features:
-- GUI with **Dark Mode 🌙**  
-- Local P2P transfers via **hostname identification**  
-- Secure transfer logs stored in **SQLite**
-
-🔗 [View on GitHub](https://github.com/prasadsapkal55/College-Project-)
-
----
-
 ## 🚀 GitHub Stats
 
 <p align="center">
